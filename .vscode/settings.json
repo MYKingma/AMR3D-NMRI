@@ -1,0 +1,11 @@
+{
+    "[python]": {
+        "editor.defaultFormatter": "ms-python.autopep8"
+    },
+    "python.formatting.provider": "none",
+    "terminal.integrated.env.osx": {
+        "PYTHONPATH": "/Users/Maurice/Documents/GitHub-repositories/AMR3D-NMRI/code"
+    },
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "/home/mkingma/scratch/repos/AMR3D-NMRI/code"
+}
